@@ -1,5 +1,0 @@
-measure,outcome,hemispheres,patients,rho,ci_low,ci_high,p
-phase_rank,contra_ar_off,29,18,0.16,-0.23,0.50,0.503
-phase_rank,contra_ar_pct,29,18,-0.02,-0.40,0.39,0.944
-lfp_beta,contra_ar_off,35,22,0.04,-0.34,0.39,0.865
-lfp_beta,contra_ar_pct,34,21,0.06,-0.32,0.43,0.789
