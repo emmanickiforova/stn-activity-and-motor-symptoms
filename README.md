@@ -41,7 +41,6 @@ OFF — оценка симптомов до приёма леводопы, ON �
 
 ## Запуск
 
-Выполни команды из папки проекта:
 
 ```bash
 python -m pip install -r requirements.txt
